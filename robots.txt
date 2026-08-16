@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toppelletgrill.com/sitemap.xml
